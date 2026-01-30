@@ -1,5 +1,3 @@
-# About-me-
-
 Hi, I’m Divyansh — an IT undergraduate passionate about DevOps, Cloud, and Automation. I enjoy working with modern DevOps tools to build scalable, reliable, and automated systems.
 
 🛠️ Skills & Technologies
